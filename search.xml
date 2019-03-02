@@ -4,11 +4,50 @@
   
     
     <entry>
-      <title>Forever young, forever tearful. 念念不忘，必有回响···</title>
-      <link href="/2019/02/28/test/"/>
-      <url>/2019/02/28/test/</url>
+      <title>设计模式【One design pattern a day】 (o(*ﾟ▽ﾟ*)o)♡</title>
+      <link href="/2019/03/02/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%90One-design-pattern-a-day%E3%80%91-(o(%EF%BE%9F%E2%96%BD%EF%BE%9F)o)%E2%99%A1/"/>
+      <url>/2019/03/02/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%90One-design-pattern-a-day%E3%80%91-(o(%EF%BE%9F%E2%96%BD%EF%BE%9F)o)%E2%99%A1/</url>
       
-        <content type="html"><![CDATA[<p>今天是2月28日，是二月的最后一天，本着对自己以及对自己负责的态度，建立了这个自己的小窝。从今天开始，真滴真滴要开始好好学习了GG，每天进步一点点，希望自己在这条发量越来越少的路上，学到越来越多的知识，不去理睬他人，切勿多管闲事，踏踏实实，做好寄几~</p><p>﻿ε≡٩(๑&gt;₃&lt;)۶ 一心向学…</p><p>φ(๑˃∀˂๑)♪ 学习是我的全部</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><em>:ஐ٩(๑´ᵕ`)۶ஐ:</em> 学习使我进步</p><p>*✧⁺˚⁺ପ(๑･ω･)੭ु⁾⁾ 好好学习天天向上</p><p><em>φ(❐</em>❐✧ 人丑就要多读书</p><p>(๑╹ヮ╹๑)ﾉ Studying makes me happy</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><img src="https://wx1.sinaimg.cn/mw690/006ZeP2Nly1fs3srqy9qjj305i02ya9v.jpg" alt="嘻嘻嘻"></p><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p>先做个计划吧：</p><table><thead><tr><th>周一</th><th>周二</th><th>周三</th><th>周四</th><th>周五</th><th>周六</th><th>周日</th></tr></thead><tbody><tr><td>Java</td><td>Django</td><td>Java</td><td>Java</td><td>Java</td><td>Java</td><td>Django</td></tr><tr><td>Java</td><td>Django</td><td>JS</td><td>Java</td><td>Django</td><td>实验室/JS</td><td>实验室/JS</td></tr><tr><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td></tr></tbody></table><p>空余时间还是读读书吧…</p><p>六级又没过…</p><p>好好休息…</p><p>好好努力…</p><p>减减肥…</p><p><img src="https://ww3.sinaimg.cn/bmiddle/0065Gvg5gy1g0lyllw5q4j30jg0huwik.jpg" alt="img"></p>]]></content>
+        <content type="html"><![CDATA[<p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p>介个设计模式是上个学期实验室大神建议看的，结果拖着又懒一直没看，一天一个给补上吧吼吼~~</p><ol><li>工厂模式 池子 连接池</li><li>单例模式  饿汉模式 懒汉模式</li><li>适配器模式 过滤器 装饰器 （Java Web)</li><li>迭代器</li><li>模板模式 </li><li>状态模式</li><li>MVC （model模型 数据层     view视图层 渲染界面  coltroller 控制器 业务逻辑）</li></ol><p><img src="https://ww3.sinaimg.cn/bmiddle/007Bs6V5ly1g0o7v6j0ypj30b40b4t9h.jpg" alt="img"></p><h2 id="前言-what-is-the-设计模式"><a href="#前言-what-is-the-设计模式" class="headerlink" title="前言-what is the 设计模式"></a>前言-what is the 设计模式</h2><p>1.设计模式是解决方案</p><p>2.设计模式是特定问题的解决方案</p><p>3.设计模式是重复出现的、特定问题的解决方案</p><p>4.设计模式是用于解决在特定环境下、重复出现的、特定问题的解决方案</p><p>5.设计模式是经过验证的，用于解决在特定环境下、重复出现的、特定问题的解决方案</p><h2 id="工厂模式"><a href="#工厂模式" class="headerlink" title="工厂模式"></a>工厂模式</h2><p><a href="http://www.runoob.com/design-pattern/factory-pattern.html" target="_blank" rel="noopener">参考学习</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git总结   ฅ^•ﻌ•^ฅ</title>
+      <link href="/2019/03/02/git%E6%80%BB%E7%BB%93/"/>
+      <url>/2019/03/02/git%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<p>﻿ε≡٩(๑&gt;₃&lt;)۶ 一心向学…</p><p>φ(๑˃∀˂๑)♪ 学习是我的全部</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><em>:ஐ٩(๑´ᵕ`)۶ஐ:</em> 学习使我进步</p><p>*✧⁺˚⁺ପ(๑･ω･)੭ु⁾⁾ 好好学习天天向上</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p>今天是三月二号嘤~ </p><p>总结一下git的工作原理，以及使用git的基本命令</p><p><img src="https://ww3.sinaimg.cn/thumb150/006tKWBYgy1g0nqzo2ipdj30b40b4jrz.jpg" alt="img"></p><p><img src="https://ww1.sinaimg.cn/bmiddle/0071folOly1g0njusl3kuj31731734ee.jpg" alt="你只配看本学霸背影"></p><h1 id="Git猫粮"><a href="#Git猫粮" class="headerlink" title="Git猫粮"></a>Git猫粮</h1><p>有git使用经验，并对git工作流程有所了解.</p><h3 id="什么是版本控制系统："><a href="#什么是版本控制系统：" class="headerlink" title="什么是版本控制系统："></a>什么是版本控制系统：</h3><p>维基百科的解释：版本控制（Revision control）是维护工程蓝图的标准作法，能追踪工程蓝图从诞生一直到定案的过程。此外，版本控制也是一种软体工程技巧，借此能在软体开发的过程中，确保由不同人所编辑的同一程式档案都得到同步。</p><p>版本控制是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。</p><h3 id="git与其他版本版本控制系统的差异："><a href="#git与其他版本版本控制系统的差异：" class="headerlink" title="git与其他版本版本控制系统的差异："></a>git与其他版本版本控制系统的差异：</h3><p>CVS Subversion Perforce Bazaar等系统以文件变更列表的方式存储信息，这类系统保存的信息看作是一组基本文件和每个文件随时间逐步积累的差异。存储每个文件与原始版本的差异。</p><p>Git主要是对当时的全部文件制作一个快照并保存这个快照的索引。如果文件没有修改，git不再重新存储该文件，而只是保留一个链接指向之前存储的文件。Git更像是把数据看作是对小型文件系统的一组快照</p><h3 id="git的三种状态："><a href="#git的三种状态：" class="headerlink" title="git的三种状态："></a>git的三种状态：</h3><p>Git 有三种状态：已提交(committed)、已修改(modified)和已暂存(staged)。已提交表示数据已经安全的保存在本地数据库中，已修改表示修改了文件，但还没有保存到数据库中，已暂存表示对一个已修改的文件的当前版本做了标记，使其包含在下次提交的快照中。</p><h3 id="git工作区："><a href="#git工作区：" class="headerlink" title="git工作区："></a>git工作区：</h3><p><img src="https://img-blog.csdn.net/20180620160929791?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdteDE5OTMzMjg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="img"></p><p>workspace: 工作区</p><p>index: 暂存区 【可以使用 git status来查看当前暂存区的状态】</p><p>repository： 本地仓库（仓库区）</p><p>remote：远程仓库</p><p>### </p><h3 id="git常用命令："><a href="#git常用命令：" class="headerlink" title="git常用命令："></a>git常用命令：</h3><p><img src="https://img-blog.csdn.net/20180620165443197?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdteDE5OTMzMjg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="img"></p><h3 id="使用git进行项目管理"><a href="#使用git进行项目管理" class="headerlink" title="使用git进行项目管理"></a>使用git进行项目管理</h3><ol><li>克隆现有的仓库：</li></ol><p>git clone [url] (自定义仓库名)</p><ol start="2"><li>在现有的目录中初始化仓库</li></ol><p>git init</p><p>执行完上述命令后，创建一个名为.git的子目录，这个子目录中含有初始化Git仓库的所有必须文件，是git仓库的骨干，接下来实现跟踪文件并提交</p><p>git add. (或用文件名代替.)（git add. 表示将所有文件暂存）</p><p>git commit   // 提交</p><ol start="3"><li>更新提交到仓库</li></ol><p>使用git status 查看更改信息</p><p>查看具体修改的位置 使用 git diff,只显示尚未暂存的改动</p><ol start="4"><li>推送到远程仓库</li></ol><p>git push origin master</p><h3 id="git工作流程"><a href="#git工作流程" class="headerlink" title="git工作流程"></a>git工作流程</h3><ul><li><p>将Git的一个存储库克隆为工作副本。<br>可以通过添加/编辑文件修改工作副本。<br>如有必要，还可以通过让其他开发人员一起来更改/更新工作副本。<br>在提交之前查看更改。<br>提交更改：如果一切正常，那么将您的更改推送到存储库。</p></li><li><p>提交后，如果意识到某些错误并修改错误后，则将最后一个正确的修改提交并将推送到存储库。</p></li></ul><p>总结来说，git可以认为是一个软件，能够帮你更好的写程序，github则是一个网站，托管你的代码，这个网站可以帮助程序员之间互相交流和学习。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Leading head ヾ(=･ω･=)o---❥(ゝω・✿ฺ)</title>
+      <link href="/2019/03/01/Leading-head/"/>
+      <url>/2019/03/01/Leading-head/</url>
+      
+        <content type="html"><![CDATA[<p>﻿ε≡٩(๑&gt;₃&lt;)۶ 一心向学…</p><p>φ(๑˃∀˂๑)♪ 学习是我的全部</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><em>:ஐ٩(๑´ᵕ`)۶ஐ:</em> 学习使我进步</p><p>*✧⁺˚⁺ପ(๑･ω･)੭ु⁾⁾ 好好学习天天向上</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><img src="https://ww2.sinaimg.cn/bmiddle/ba4957ffgy1g0m3t4sgbmj20k00k0jsv.jpg" alt="夹缝中生存"></p><h1 id="必需猫粮"><a href="#必需猫粮" class="headerlink" title="必需猫粮"></a>必需猫粮</h1><h3 id="职位描述：（Most-important信息安全部）"><a href="#职位描述：（Most-important信息安全部）" class="headerlink" title="职位描述：（Most important信息安全部）"></a><strong>职位描述：</strong>（Most important信息安全部）</h3><p>1.公司内部支持系统以及B2B的服务及数据展示平台的开发及维护。涉及到的产品为PC端为主，但也会有部分多端支持的项目，包括但不限于手机端、app、微信公众号、活动H5页面等等;<br>2.较好的沟通能力，和产品经理、业务方、设计师、后端开发等配合产出高可用性的产品，对业务进行分析并提出自己的看法和建议;<br>3.参与到项目架构与选型过程，并需要主动和同事交流各类技术和问题.</p><p><strong>任职要求：</strong></p><p>1.计算机或软件工程相关专业毕业，具有基础计算机软件知识;<br>2.精通 HTML5、CSS3、以及JavaScript，熟悉Web API有了解;<br>3.有Vue、React、或Angular使用经验者优先;<br>4.熟悉各种前端调试工具和手段、如Charles、Fiddler等等，并具有问题分析能力;<br>5.对前端常用技术和工具有所了解，包括Nginx、Linux、Webpack等;<br>6.有git使用经验，并对git工作流程有所了解.</p><h3 id="任职要求：（web平台）"><a href="#任职要求：（web平台）" class="headerlink" title="任职要求：（web平台）"></a><strong>任职要求：</strong>（web平台）</h3><p>1.了解HTML5/CSS3/JavaScript相关技能，有一定的项目实践经验;<br>2.有一定的JavaScript编写能力，能够使用原生JavaScript实现复杂功能和UI模块;</p><p>3.了解Web标准，熟悉浏览器规范和兼容性;<br>4.熟悉React/Vue 等技术栈，了解 Node.js 知识;<br>5.视野开阔，心态开放，对新技术有较高热情;<br>6.良好的沟通能力，较强的责任心.</p><h3 id="任职要求：（搜索）"><a href="#任职要求：（搜索）" class="headerlink" title="任职要求：（搜索）"></a><strong>任职要求：</strong>（搜索）</h3><p>1.精通HTML/XHTML、CSS等网页制作技术，熟悉页面架构和布局，掌握原生Javascript也会Js的一些开源框架<br>2.熟悉W3C标准，对表现与数据分离、Web语义化等有深刻理解<br>3.对互联网产品和Web技术有强烈兴趣，有优秀的学习能力和强烈的进取心<br>4.具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力 </p><p>具有以下能力者优先考虑：<br>1.具有Mobile WEB/WAP、HTML5/CSS3、nodes、Flash等开发经验<br>2.熟悉Linux平台，掌握一种后端开发语言（PHP/Java/C/C++/python等）<br>3.使用过一些开源的框架做过项目<br>4.具有一定的软件工程意识，对数据结构和算法设计有充分理解</p><h3 id="任职要求：-智慧城市"><a href="#任职要求：-智慧城市" class="headerlink" title="任职要求：(智慧城市)"></a><strong>任职要求：</strong>(智慧城市)</h3><p>1.统招本科或研究生在读，计算机或软件等相关专业；<br>2.熟悉Web应用开发，有实际项目或竞赛经验者优先；<br>3.熟悉linux，能熟练应用一门或几门以下语言：Python/Java/Php/Nodejs等；<br>4.熟悉Web前端技术（HTML、CSS、JavaScript等），并对前后端协作有深入理解；<br>5.熟悉MySql数据库设计和优化，熟悉常用的消息队列、缓存、负载均衡等中间件技术；<br>6.熟悉Redis，memcache等nosql数据存储；<br>7.熟悉HTTP、TCP/IP网络协议.<br>8、良好的沟通交流能力，有较强的独立解决问题、自主学习的能力，能快速熟悉并掌握新技术。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Forever young, forever tearful. 念念不忘，必有回响···</title>
+      <link href="/2019/02/28/first/"/>
+      <url>/2019/02/28/first/</url>
+      
+        <content type="html"><![CDATA[<p>今天是2月28日，是二月的最后一天，本着对自己以及对自己负责的态度，建立了这个自己的小窝。从今天开始，真滴真滴要开始好好学习了GG，每天进步一点点，希望自己在这条发量越来越少的路上，学到越来越多的知识，不去理睬他人，切勿多管闲事，踏踏实实，做好寄几~</p><p>﻿ε≡٩(๑&gt;₃&lt;)۶ 一心向学…</p><p>φ(๑˃∀˂๑)♪ 学习是我的全部</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><em>:ஐ٩(๑´ᵕ`)۶ஐ:</em> 学习使我进步</p><p>*✧⁺˚⁺ପ(๑･ω･)੭ु⁾⁾ 好好学习天天向上</p><p><em>φ(❐</em>❐✧ 人丑就要多读书</p><p>(๑╹ヮ╹๑)ﾉ Studying makes me happy</p><p>(っ•̀ω•́)っ✎⁾⁾ 我爱学习</p><p><img src="https://wx1.sinaimg.cn/mw690/006ZeP2Nly1fs3srqy9qjj305i02ya9v.jpg" alt="嘻嘻嘻"></p><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p>先做个计划吧：</p><table><thead><tr><th>周一</th><th>周二</th><th>周三</th><th>周四</th><th>周五</th><th>周六</th><th>周日</th></tr></thead><tbody><tr><td>Java</td><td>Django</td><td>Java</td><td>Java</td><td>Java</td><td>Java</td><td>Django</td></tr><tr><td>Java</td><td>Django</td><td>JS</td><td>Java</td><td>Django</td><td>实验室/JS</td><td>实验室/JS</td></tr><tr><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td><td>六级/数据结构</td></tr></tbody></table><p>空余时间还是读读书吧…</p><p>六级又没过…</p><p>好好休息…</p><p>好好努力…</p><p>减减肥…</p><p><img src="https://ww3.sinaimg.cn/bmiddle/0065Gvg5gy1g0lyllw5q4j30jg0huwik.jpg" alt="img"></p><p>设计模式</p><p>算法+数据结构</p><p>英语六级</p><p>Java框架</p><p>leading head</p>]]></content>
       
       
       
